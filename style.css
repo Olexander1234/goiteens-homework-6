@@ -374,10 +374,12 @@ border-radius: 0px 0px 4px 4px;
 
     box-sizing: border-box;
 
-} */
+ }
+
 .contairn{
     
 }
+
 .tex12{
     display: flex;
 }
@@ -386,9 +388,8 @@ border-radius: 0px 0px 4px 4px;
     color: aliceblue;
     background: #2196F3;
     
-
-
 }
+
 .roboto{
     display: flex;
 }
